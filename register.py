@@ -1,1 +1,3 @@
-print("register")
+def register():
+	print("register")
+register()
