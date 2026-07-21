@@ -1,1 +1,3 @@
-print("attendance")
+def attendance():
+	print("attendance")
+attendance()
