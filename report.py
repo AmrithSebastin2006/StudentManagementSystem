@@ -1,1 +1,2 @@
-print("report")
+def report():
+	print("report")
