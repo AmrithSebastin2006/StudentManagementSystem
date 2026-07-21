@@ -1,1 +1,2 @@
-print("marks")
+def marks():
+	print("marks")
